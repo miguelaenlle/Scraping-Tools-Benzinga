@@ -1,6 +1,6 @@
 # Benzinga.com Scraping Tools
 
-These are the scripts used for the getting the dataset shown here: INSERT LINK
+These are the scripts used for the getting the dataset shown here: https://www.kaggle.com/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests
 
 ## Getting Started
 
