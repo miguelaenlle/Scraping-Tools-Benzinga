@@ -7,6 +7,7 @@ These are the scripts used for the getting the dataset shown here: https://www.k
 ### Prerequisites
 
 All the prerequisite files are in requirements.txt
+Also, install selenium webdriver firefox.
 
 ### Installing
 
